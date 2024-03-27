@@ -1,0 +1,7 @@
+.vscode
+Projects/
+.env
+env/
+venv/
+.DS_STORE
+logs/

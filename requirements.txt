@@ -1,0 +1,6 @@
+markdown2
+pdfkit
+PyPDF2
+tqdm
+click
+prompt_toolkit
